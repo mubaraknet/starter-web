@@ -9,3 +9,6 @@ Sample website with plenty of files for demos. Some change
 
 ## Copyright
 2021 SQ
+
+## New Line
+2021 SQ
